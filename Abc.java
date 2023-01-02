@@ -3,7 +3,8 @@ class Abc{
         System.out.println("Welcome to java"); 
         System.out.println("Welcome to java"); 
         System.out.println("Welcome to java"); 
-s
+        System.out.println("Welcome to java"); 
+
 
     }
 }
